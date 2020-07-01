@@ -20,7 +20,7 @@ span{
 #head{
     margin-top: 8%;
 }
-.half image{
+.header-image{
 width: 100%;
 }
 #hasan2{
@@ -30,7 +30,7 @@ width: 100%;
     background-image: url("personal-website/header-bg.png");
  }
  section{
-    height: 1000px;
+    height: 700px;
     background-repeat: no-repeat;
  }
 .button1{
@@ -47,10 +47,8 @@ width: 100%;
     margin-left: 5%;
     padding-left: 2%;
 }
-.second img{
-    width: 970px;
-    height: 1000px;
-    margin-top: -20%;
+.header2-image{
+    width: 100%;
 }
 .button2{
     text-decoration: none;
@@ -67,7 +65,7 @@ width: 100%;
     background-image: url("personal-website/biography-bg.png");
 }
 section.biography{
-    height: 1000px;
+    height: 700px;
     background-repeat: no-repeat;
 }
 .latest{
@@ -76,13 +74,12 @@ section.biography{
 }
 .work{
     background-image: url("personal-website/latest-work-bg.png");
-    height: 600px;
+    height: 450px;
     background-repeat: no-repeat;
 }
 .work-pic img{
-    width: 300px;
-    height: 250px;
-    float: left;
+    width: 20%;
+    height: 100%;
     margin-left: 10%;
 }
 #client{
