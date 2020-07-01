@@ -1,0 +1,137 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0%;
+}
+.name{
+    font-size: 40px;
+}
+span{
+    font-size: 50px;
+    color: deeppink;
+    font-weight: bold;
+}
+.half{
+    width:  40%;
+    float: left; 
+    margin-left: 7%;
+    padding-top: 5%;
+    padding-left: 2%;
+}
+#head{
+    margin-top: 8%;
+}
+.half image{
+width: 100%;
+}
+#hasan2{
+    margin-top: -50px;
+}
+.header{
+    background-image: url("personal-website/header-bg.png");
+ }
+ section{
+    height: 1000px;
+    background-repeat: no-repeat;
+ }
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(236, 10, 161), rgb(219, 144, 179));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.second{
+    width:  40%;
+    float: left; 
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.second img{
+    width: 970px;
+    height: 1000px;
+    margin-top: -20%;
+}
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(116, 0, 194), rgb(163, 131, 251));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+#bio{
+    margin-top: 15%;
+}
+.biography{
+    background-image: url("personal-website/biography-bg.png");
+}
+section.biography{
+    height: 1000px;
+    background-repeat: no-repeat;
+}
+.latest{
+    text-align: center;
+    font-size: 35px;
+}
+.work{
+    background-image: url("personal-website/latest-work-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+}
+.work-pic img{
+    width: 300px;
+    height: 250px;
+    float: left;
+    margin-left: 10%;
+}
+#client{
+    font-size: 50px;
+    text-align: center;
+}
+.last{
+    text-align: center;
+}
+#ceo{
+    color: rgb(139, 134, 134);
+    font-size: 20px;
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    line-height: 5px;
+}
+.client{
+    margin-top: 20px;
+    background-image: url("personal-website/footer-bg.png");
+    height: 1000px;
+    background-repeat: no-repeat;
+}
+.thanks{
+    text-align: center;
+    background-image: linear-gradient(deeppink, rgb(241, 124, 193));
+    padding: 30px 40px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 20px;
+    color: honeydew;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    color: lightslategrey;
+}
+#bah{
+    margin-bottom: 100px;
+    text-align: center;
+    padding: 100px ;
+}
+#messege{
+    text-align: center;
+    color: lightyellow;
+}
+#ph{
+    text-align: center;
+    color: grey;
+    font-size: 15px;
+}
